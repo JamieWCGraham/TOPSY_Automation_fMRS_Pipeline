@@ -16,6 +16,11 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
  <li> You also need to have Visual Studio Code downloaded. It can be downloaded <a href="https://code.visualstudio.com/download">here</a>. </li>
   
   </ul>
+  
+  <br/>
+    <br/>
+    <br/>
+    <br/>
 
   2. Once you have downloaded all the required pieces of software, open your terminal app. 
   
@@ -24,12 +29,28 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
     <li> On Windows, follow <a href="https://www.wikihow.com/Open-Terminal-in-Windows">these</a> instructions </li>
   </ul>
   
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+  
   
   3. You need to use terminal to open SikuliX IDE, otherwise it won't work (you can't just double click on the .jar file).
   - In the command prompt, write the following command and then hit enter: cd Desktop
   - Now write the following command and hit enter: java -jar sikulixide-2.0.5.jar
   
+      <br/>
+    <br/>
+    <br/>
+    <br/>
+  
+  
   4. SikuliX may request access to various functionalities on your computer, go to your system preferences and allow it access based on its instructions. 
+  
+      <br/>
+    <br/>
+    <br/>
+    <br/>
   
   
   
