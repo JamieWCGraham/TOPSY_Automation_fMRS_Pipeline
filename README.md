@@ -74,10 +74,18 @@ Before you run the code, we need to open Hyper terminal now.
   - type the following and then hit enter: cd Downloads 
   - type the following and then hit enter: cd MAGIQ-0.3-beta 
 
+7. Your fMRS dataset should be named appropiately according to the subject ID and the acquisition date, for example: 
   
-  Now you are all good to go, go back to SikuliX IDE window and hit run in the top right hand corner of the window.
+  <img width="769" alt="Screen Shot 2021-12-06 at 12 09 23 PM" src="https://user-images.githubusercontent.com/50881444/144890438-61b7e3b2-01fb-423b-aeae-601e1380850d.png">
+  
+  
+  
+    
+8.  Now you are all good to go, go back to SikuliX IDE window and hit run in the top right hand corner of the window.
+  
+  <img width="174" alt="Screen Shot 2021-12-06 at 12 10 27 PM" src="https://user-images.githubusercontent.com/50881444/144890579-e31618db-5b80-4c18-a8bf-4e2df2badaf9.png">
+
 
 <img width="200" alt="Screen Shot 2021-12-06 at 12 07 54 PM" src="https://user-images.githubusercontent.com/50881444/144890186-9e35788f-1ff6-4e73-b4f2-ff3634389a45.png">
   
-  
-  
+
