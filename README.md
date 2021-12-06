@@ -22,7 +22,7 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
     <br/>
     <br/>
 
-  2. Once you have downloaded all the required pieces of software, open your terminal app. 
+  2. Once you have downloaded all the required pieces of software, open your terminal app. If you don't know how to do this, follow instructions directly below.
   
   <ul>
 <li> On Mac, Go to Finder -> Applications -> Utilities -> Terminal and open terminal. </li>
@@ -53,6 +53,11 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
 <br/>
   
   
+  5. Once the SikuliX IDE has opened, should look something like this: 
+  
+  <img src="https://i.ibb.co/47Qrw8f/Screen-Shot-2021-12-06-at-11-50-35-AM.png" style="width:400px"/>
+            
+     Click on File --> Open --> download 
   
   
   
