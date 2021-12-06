@@ -25,7 +25,11 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
   </ul>
   
   
-  - In the command prompt, write the following command: cd Desktop
+  3. You need to use terminal to open SikuliX IDE, otherwise it won't work (you can't just double click on the .jar file).
+  - In the command prompt, write the following command and then hit enter: cd Desktop
+  - Now write the following command and hit enter: java -jar sikulixide-2.0.5.jar
+  
+  4. SikuliX may request access to various functionalities on your computer, go to your system preferences and allow it access based on its instructions. 
   
   
   
