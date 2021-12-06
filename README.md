@@ -73,10 +73,11 @@ Before you run the code, we need to open Hyper terminal now.
   
   - type the following and then hit enter: cd Downloads 
   - type the following and then hit enter: cd MAGIQ-0.3-beta 
+
   
   Now you are all good to go, go back to SikuliX IDE window and hit run in the top right hand corner of the window.
 
-<img width="200" alt="Screen Shot 2021-12-06 at 12 07 20 PM" src="https://user-images.githubusercontent.com/50881444/144890105-ecaf64a6-bd60-49cb-8908-8c44e53a6cf0.png">
+<img width="200" alt="Screen Shot 2021-12-06 at 12 07 54 PM" src="https://user-images.githubusercontent.com/50881444/144890186-9e35788f-1ff6-4e73-b4f2-ff3634389a45.png">
   
   
   
