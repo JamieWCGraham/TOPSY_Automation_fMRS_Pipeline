@@ -15,6 +15,8 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
   
  <li> You also need to have Visual Studio Code downloaded. It can be downloaded <a href="https://code.visualstudio.com/download">here</a>. </li>
   
+  <li> You also need Hyper terminal to be downloaded. Download <a href="https://hyper.is/">here</a>
+  
  <li> Finally, scroll up, click on the green button that says "Code" and download this repository. Inside you should find a folder called PipelineFull.sikuli </li>
   
   </ul>
@@ -59,7 +61,8 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
   
   <img src="https://i.ibb.co/47Qrw8f/Screen-Shot-2021-12-06-at-11-50-35-AM.png" style="width:700px"/>
             
-Click on File --> Open --> 
+Click on File --> Open. Now navigate to the folder where you downloaded this repository, most likely your "Downloads" folder. Open PipelineFull.sikuli. Scroll all the way down through the files in this folder and at the bottom, double click PipelineFull.py
+  
   
   
   
