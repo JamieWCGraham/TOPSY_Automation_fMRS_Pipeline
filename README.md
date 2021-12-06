@@ -65,5 +65,18 @@ Click on File --> Open. Now navigate to the folder where you downloaded this rep
   
   
   <img width="700" alt="Screen Shot 2021-12-06 at 12 01 04 PM" src="https://user-images.githubusercontent.com/50881444/144889170-7b0d7e3f-6d64-49c5-8aa2-7d611f6b2015.png">
+  
+Before you run the code, we need to open Hyper terminal now. 
+  
+  
+  6. Open Hyper terminal by clicking on it in your Applications folder. Now, wherever you downloaded your MAGIQ folder from the fitMAN and BARSTOOL installation process, we need to navigate there using Hyper. Supposing that MAGIQ folder is simply in your Downloads folder, we can do this in the Hyper command prompt:
+  
+  - type the following and then hit enter: cd Downloads 
+  - type the following and then hit enter: cd MAGIQ-0.3-beta 
+  
+  Now you are all good to go, go back to SikuliX IDE window and hit run in the top right hand corner of the window.
 
+<img width="200" alt="Screen Shot 2021-12-06 at 12 07 20 PM" src="https://user-images.githubusercontent.com/50881444/144890105-ecaf64a6-bd60-49cb-8908-8c44e53a6cf0.png">
+  
+  
   
