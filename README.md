@@ -4,4 +4,7 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
 
 
 ## Installation
-This pipeline requires the download of a couple pieces of software. It's important for you to have both fitMAN and BARSTOOL downloaded. For more information on how to download these, click <a href="https://github.com/dwong263/MAGIQ/wiki/Installation-Overview">here</a>.
+This pipeline requires the download of a couple pieces of software. Firstly, the automation software we are using depends on SikuliX IDE, and python. Download SikuliX IDE here <a href="https://raiman.github.io/SikuliX1/downloads.html">here<a>. You can download Python <a href="https://www.python.org/downloads/">here</a>.
+It's important for you to have both fitMAN and BARSTOOL downloaded and working successfully on your computer. For more information on how to download and run these, click <a href="https://github.com/dwong263/MAGIQ/wiki/Installation-Overview">here</a>. You also need to have Visual Studio Code downloaded. It is free and open source <a href="https://code.visualstudio.com/download">here</a>. 
+  
+
