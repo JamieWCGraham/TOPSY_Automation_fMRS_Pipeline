@@ -61,9 +61,9 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
   
   <img src="https://i.ibb.co/47Qrw8f/Screen-Shot-2021-12-06-at-11-50-35-AM.png" style="width:700px"/>
             
-Click on File --> Open. Now navigate to the folder where you downloaded this repository, most likely your "Downloads" folder. Open PipelineFull.sikuli. Scroll all the way down through the files in this folder and at the bottom, double click PipelineFull.py
+Click on File --> Open. Now navigate to the folder where you downloaded this repository, most likely your "Downloads" folder. Open PipelineFull.sikuli. Scroll all the way down through the files in this folder and at the bottom, double click PipelineFull.py. You should see this window now: 
   
   
-  
-  
+  <img width="700" alt="Screen Shot 2021-12-06 at 12 01 04 PM" src="https://user-images.githubusercontent.com/50881444/144889170-7b0d7e3f-6d64-49c5-8aa2-7d611f6b2015.png">
+
   
