@@ -55,7 +55,7 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
   
   5. Once the SikuliX IDE has opened, should look something like this: 
   
-  <img src="https://i.ibb.co/47Qrw8f/Screen-Shot-2021-12-06-at-11-50-35-AM.png" style="width:400px"/>
+  <img src="https://i.ibb.co/47Qrw8f/Screen-Shot-2021-12-06-at-11-50-35-AM.png" style="width:700px"/>
             
      Click on File --> Open --> download 
   
