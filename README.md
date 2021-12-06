@@ -4,7 +4,7 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
 
 
 ## Installation
-This pipeline requires the download of a couple pieces of software. 
+1. This pipeline requires the download of a couple pieces of software. 
 
 <ul>
 <li>Firstly, the automation software we are using depends on SikuliX IDE, and python. Download SikuliX IDE here <a href="https://raiman.github.io/SikuliX1/downloads.html">here<a>. </li>
@@ -16,3 +16,5 @@ This pipeline requires the download of a couple pieces of software.
  <li> You also need to have Visual Studio Code downloaded. It is free and open source <a href="https://code.visualstudio.com/download">here</a>. </li>
   
   </ul>
+
+  2. 
