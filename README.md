@@ -15,6 +15,8 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
   
  <li> You also need to have Visual Studio Code downloaded. It can be downloaded <a href="https://code.visualstudio.com/download">here</a>. </li>
   
+   <li> Finally, go to the source code of this document and download the folder "PipelineFull.sikuli </li>
+  
   </ul>
   
   <br/>
@@ -57,7 +59,7 @@ This is the official documentation for the TOPSY Automated fMRS Pipeline, automa
   
   <img src="https://i.ibb.co/47Qrw8f/Screen-Shot-2021-12-06-at-11-50-35-AM.png" style="width:700px"/>
             
-     Click on File --> Open --> download 
+Click on File --> Open --> 
   
   
   
