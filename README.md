@@ -1,6 +1,5 @@
 # TOPSY_Automation_fMRS_Pipeline
-This is the official documentation for the TOPSY Automated fMRS Pipeline, automated in Python using SikuliX IDE.
-
+This is the official documentation for the TOPSY Automated fMRS Pipeline, automated in Python using SikuliX IDE. In the future, I would love to transition to a more bash based process, but this at least does the job for now. 
 
 
 ## Installation
