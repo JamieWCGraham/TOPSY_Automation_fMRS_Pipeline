@@ -1,4 +1,5 @@
 # TOPSY_Automation_fMRS_Pipeline
+
 This is documentation for the TOPSY Automated fMRS Pipeline, automated in Python using SikuliX IDE. This code will take control of your mouse and keyboard, and start clicking/entering keystrokes on your computer. It uses OCR to recognize screenshots of the desktop, and click in those regions accordingly at the time specified by the TOPSY Automation program. 
 
 
